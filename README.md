@@ -1,4 +1,4 @@
-# Figurinha da copa.
+# Figurinha da copa🏆.
 
 https://denisvboas.github.io/card-nlw-copa/
 
