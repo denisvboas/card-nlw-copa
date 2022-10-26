@@ -2,7 +2,7 @@
 
 https://denisvboas.github.io/card-nlw-copa/
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
